@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 eclipse.preferences.version=1
 encoding//src/spms/dao/MemberDao.java=UTF-8
 encoding//src/spms/servlets/DispatcherServlet.java=UTF-8
 encoding//src/spms/servlets/MemberAddServlet.java=UTF-8
 encoding//src/spms/servlets/MemberListServlet.java=UTF-8
 encoding/<project>=UTF-8
+=======
+eclipse.preferences.version=1
+encoding//src/spms/dao/MemberDao.java=UTF-8
+encoding//src/spms/servlets/DispatcherServlet.java=UTF-8
+encoding//src/spms/servlets/MemberAddServlet.java=UTF-8
+encoding//src/spms/servlets/MemberListServlet.java=UTF-8
+encoding/<project>=UTF-8
+>>>>>>> e174113c0473001948096ec44e22378fc766de11
